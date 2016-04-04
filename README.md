@@ -1,2 +1,2 @@
 # midilearn
-Module for implementing MIDI Learn feature (common in DAWs) in the browser.
+Module for implementing MIDI Learn feature often found in DAWs in the browser.
