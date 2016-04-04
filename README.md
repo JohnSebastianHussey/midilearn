@@ -19,6 +19,6 @@ midiLearn(highPassFilter, function( midiValue ) {
 	
 	// This callback is called everytime the learnt midi signal for this dom node is recieved
 
-	// midiValue is the value send from the midi controller between 0 and 127
+	// midiValue is the value sent from the midi controller between 0 and 127
 });
 ```
