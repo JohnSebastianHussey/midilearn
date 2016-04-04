@@ -1,5 +1,5 @@
 # midilearn
-Module for implementing MIDI Learn feature in the browser.
+Module for implementing MIDI Learn feature in the browser. Requires a browser that has the Web MIDI API enabled, chrome 47+ for example.
 
 
 ## How it works
